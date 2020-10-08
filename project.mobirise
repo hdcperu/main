@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hablemos de Cambio - Inicio",
-    "currentPage": "gorrito.html",
+    "currentPage": "desafio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1194,7 +1194,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/copia-de-img-428-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1210,7 +1210,7 @@
                 "contentAlign": "left",
                 "text": "Cada vez falta menos para el desarrollo de los<br>talleres y todo lo que tiene preparado HDC para ti.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">INSCRÍBETE AQUÍ</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONOCE MÁS</a>",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/4-15-1335x889.jpg",
@@ -1233,7 +1233,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/wendy-ramos-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1248,7 +1248,8 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Todos los participantes tendrán acceso a ponencias<br>exclusivas. Conoce a quienes te acompañarán en esta edición.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">¡A VER!</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">¡A VER!</a>",
+                "overlayOpacity": "0.2"
               }
             ]
           }
