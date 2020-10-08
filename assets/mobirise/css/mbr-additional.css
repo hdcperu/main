@@ -3238,20 +3238,6 @@ section.lazy-placeholder:after {
 .cid-scGIKQvinE .dropdown-item:hover {
   color: #0effb7 !important;
 }
-.cid-scN1ATBuh2 {
-  background-image: url("../../../assets/images/background1.jpg");
-}
-.cid-scN1ATBuh2 .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
-.cid-scN1ATBuh2 .media-container-column {
-  background-color: #4f4943;
-}
-@media (max-width: 767px) {
-  .cid-scN1ATBuh2 .media-container-column {
-    padding: 1rem !important;
-  }
-}
 .cid-scGNDIgBrf {
   padding-top: 30px;
   padding-bottom: 30px;
