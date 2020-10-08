@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HDC - principial",
-    "currentPage": "gorrito.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,7 +53,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "uniqCompNum": 28,
-    "versionPublish": "4.11.4"
+    "versionPublish": "4.11.4",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -1193,7 +1194,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/copia-de-img-428-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1213,7 +1214,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/4-15-1335x889.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1224,7 +1225,7 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "CONOCE A LOS<br><b>EJES DE TRABAJO</b>",
+                "textTitle": "CONOCE LOS<br><b>EJES DE TRABAJO</b>",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Es importante que conozcas con qué ejes se trabajará durante<br>todo el desafío. De estos ejes se desprenderán los casos.",
