@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hablemos de Cambio - Inicio",
-    "currentPage": "desafio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/base-logo-128x87.png",
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -60,7 +60,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Inicio",
+        "title": "Hablemos de Cambio - Inicio",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -932,7 +932,7 @@
     "desafio.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "Desafio",
+        "title": "Desafio Cuidadanos en Acción",
         "order": 2
       },
       "components": [
@@ -1808,7 +1808,7 @@
     "gorrito.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "Gorrito",
+        "title": "Gorrito Virtual HDC",
         "order": 3
       },
       "components": [
@@ -2602,7 +2602,7 @@
     "nosotros.html": {
       "settings": {
         "meta_descr": "Web Maker Description",
-        "title": "Nosotros",
+        "title": "Quiénes Somos",
         "order": 1
       },
       "components": [
