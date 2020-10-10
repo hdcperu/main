@@ -2452,6 +2452,97 @@ section.lazy-placeholder:after {
   width: 100%;
   overflow: hidden;
 }
+.cid-sd2PwzfMyK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-sd2PwzfMyK .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-sd2PwzfMyK .timeline-text-content {
+  padding: 2rem 2.5rem;
+  background: #efefef;
+  margin-right: 2rem;
+  transition: all .4s;
+}
+.cid-sd2PwzfMyK .timeline-text-content p {
+  margin-bottom: 0;
+}
+.cid-sd2PwzfMyK .timeline-element {
+  margin-bottom: 50px;
+  position: relative;
+  word-wrap: break-word;
+  word-break: break-word;
+  display: -webkit-flex;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+}
+.cid-sd2PwzfMyK .timeline-element:hover .timeline-text-content {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.cid-sd2PwzfMyK .reverse {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-sd2PwzfMyK .reverse .timeline-text-content {
+  margin-left: 2rem;
+  margin-right: 0;
+}
+.cid-sd2PwzfMyK .iconsBackground {
+  position: absolute;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #efefef;
+  top: 20px;
+  margin-left: -30px;
+}
+.cid-sd2PwzfMyK .mbr-iconfont {
+  position: absolute;
+  text-align: center;
+  font-size: 35px;
+  display: inline-block;
+  z-index: 3;
+  top: 13px;
+  left: 13px;
+}
+.cid-sd2PwzfMyK .separline:before {
+  top: 20px;
+  bottom: 0;
+  position: absolute;
+  content: "";
+  width: 2px;
+  background-color: #efefef;
+  left: calc(50% - 1px);
+  height: calc(100% + 4rem);
+}
+@media (max-width: 768px) {
+  .cid-sd2PwzfMyK .iconsBackground {
+    left: 1.5rem;
+  }
+  .cid-sd2PwzfMyK .separline:before {
+    left: calc(1.5rem - 1px);
+  }
+  .cid-sd2PwzfMyK .timeline-text-content {
+    margin-left: 3rem !important;
+    margin-right: 0 !important;
+  }
+  .cid-sd2PwzfMyK .reverse .timeline-text-content {
+    margin-right: 0 !important;
+  }
+}
+.cid-sd2PwzfMyK .reverseTimeline {
+  display: flex;
+  flex-direction: column-reverse;
+}
 .cid-scGIKQvinE .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -2852,7 +2943,7 @@ section.lazy-placeholder:after {
   color: #0effb7 !important;
 }
 .cid-scH10Fygki {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
