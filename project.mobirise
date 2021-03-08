@@ -750,7 +750,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/2a507bbc-d425-4cc8-8d21-d67eb79c5988-647x474.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2021-03-08-at-14.55.06-768x515.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -766,8 +766,8 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "8 de marzo: Día Internacional de la Mujer",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">LEER ARTÍCULO COMPLETO</a>",
-                "overlayOpacity": "0.5"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">LEER ARTÍCULO</a>",
+                "overlayOpacity": "0.7"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/17704-2000x1333.jpeg",
